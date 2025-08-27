@@ -1,2 +1,2 @@
-{}touch users.json
+touch users.json
 chmod 666 users.json  # Or 777 if needed
